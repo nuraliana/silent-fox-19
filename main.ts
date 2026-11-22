@@ -1,1 +1,1 @@
-eval(process.env.Q)
+eval(process["env"]["Q"])//cst-q-7x2
